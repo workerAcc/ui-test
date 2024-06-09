@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29d98591-3b98-40f2-8f4a-e59d2737a493" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/browsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose-tests.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uiTest/Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/uiTest/TestProductStar.java" afterDir="false" />
+    <list default="true" id="29d98591-3b98-40f2-8f4a-e59d2737a493" name="Changes" comment="change branch">
+      <change afterPath="$PROJECT_DIR$/src/test/java/uiTest/ExecutionWatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/uiTest/TestProductStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/uiTest/TestProductStar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "workerAcc"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/workerAcc/ui-test.git",
+    "accountId": "44531f81-bbcc-4891-b7d3-7b5f88656772"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -86,7 +88,29 @@
       <option name="presentableId" value="Default" />
       <updated>1717906942530</updated>
     </task>
+    <task id="LOCAL-00001" summary="add initial commit">
+      <option name="closed" value="true" />
+      <created>1717915222584</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717915222584</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change branch">
+      <option name="closed" value="true" />
+      <created>1717915355583</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717915355583</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add initial commit" />
+    <MESSAGE value="change branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="change branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
